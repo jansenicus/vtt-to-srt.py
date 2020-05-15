@@ -1,6 +1,6 @@
 # vtt_to_srt.py
 
-useful python script for Python 2.7 (you can get version for Python 3.7 here: https://github.com/0um/vtt-to-srt.py)
+useful python script for Python 2.7 (you can get version for Python 3.7 here: https://github.com/amorvincitomnia/vtt-to-srt.py)
 
 ## convert vtt files to srt subtitle format
 
